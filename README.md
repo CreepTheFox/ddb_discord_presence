@@ -1,3 +1,4 @@
+_forked to run on a different discord application_
 # Discord RP plugin for DeaDBeeF 
 Discord Rich Presence Plugin shows your current playing track on your Discord status.
 
